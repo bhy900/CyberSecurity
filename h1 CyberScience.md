@@ -1,6 +1,6 @@
 # H1 CyberScience
 
-##Article
+## Article
 Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/ML With the Attack Tree. IEEE Access. Vol. 12, pp. 172610-172637. DOI: 10.1109/ACCESS.2024.3497011
 
 - Name: Threat Modeling AI/ML With the Attack Tree
@@ -10,7 +10,7 @@ Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/
 - JUFO rating: 1
 
   
-##Review the review
+## Review the review
 
 ### *What are the key areas being researched?:*
 - Threat modeling for AI/ML systems using attack trees
@@ -76,7 +76,9 @@ Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/
 - Estimated risk 9M€
 
 ### *Biggest risk*
+
 **Model extraction via API abuse and query attacks, resulting in theft of model behavior/IP**
+
 **Estimated risk value 75M€**
 
 
