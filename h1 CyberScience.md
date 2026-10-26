@@ -13,6 +13,12 @@ Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/
 **Review the review**
 
 *What are the key areas being researched?:*
+- Threat modeling for AI/ML systems using attack trees
+- Adversarial attacks such as evasion attacks, poisoning attacks, backdoor attacks, and model stealing
+- Privacy attacks and data reconstruction
+- Security of ML components across the whole lifecycle (data collection, training, deployment, monitoring)
+- Risk assessment methods for estimating attack likelihood and impact
+- Defenses against attacks on confidentiality, integrity, availability, and privacy
 
 
 *What's widely agreed upon?:*
