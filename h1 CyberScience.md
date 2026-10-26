@@ -83,19 +83,13 @@ Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/
 
 ## Extra Voluntary
 
-Recognized Base64 encoding
-
-string: ==gCh8mclRFIs8GbsVGS
-
-reversed string: SGVsbG8sIFRlcm8hCg==
-
-`code`
-
-echo "SGVsbG8sIFRlcm8hCg==" | base64 -d
-
-`code`
-
-Hello, Tero!
+- Recognized Base64 encoding
+- string: ==gCh8mclRFIs8GbsVGS
+- reversed string: SGVsbG8sIFRlcm8hCg==
+- linux terminal magik:
+  echo "SGVsbG8sIFRlcm8hCg==" | base64 -d
+- result:
+  Hello, Tero!
 
 
 
