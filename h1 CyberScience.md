@@ -81,6 +81,25 @@ Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/
 
 **Estimated risk value 75M€**
 
+## Extra Voluntary
+
+Recognized Base64 encoding
+
+string: ==gCh8mclRFIs8GbsVGS
+
+reversed string: SGVsbG8sIFRlcm8hCg==
+
+<
+
+echo "SGVsbG8sIFRlcm8hCg==" | base64 -d
+
+>
+
+Hello, Tero!
+
+
+
+
 
 
 
