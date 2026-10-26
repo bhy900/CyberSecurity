@@ -22,12 +22,55 @@ Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/
 
 
 *What's widely agreed upon?:*
-
+- AI/ML systems have many security vulnerabilities and are attractive targets for attackers
+- Threat modeling is important and should be done early in system design
+- Attacks can happen during both training and inference phases
+- Data and models are valuable assets that need protection
+- Traditional cybersecurity measures alone are not enough for AI/ML systems
+- Confidentiality, integrity, availability, and privacy are the main security goals in AI/ML systems
 
 *What are the open questions?:*
-
+- How to build a complete defense tree that matches attack trees
+- How to protect ML models from adversarial attacks using cryptography
+- What new risks Quantum Machine Learning (QML) introduces
+- How homomorphic encryption can be made practical for secure ML
+- How to detect poisoned data and hidden backdoors more reliably
+- How watermarking can prevent model stealing and protect intellectual property
+- How Zero-Knowledge Machine Learning (ZKML) can improve privacy without revealing training data
+- How to make ML models better against adversarial examples and new attack techniques
 
 **Threat modelling quickrun**
+
+*Crown jewels*
+- Model weights and training data (IP worth billions)
+- Availability of Claude services (business continuity)
+- Customer data and prompts
+- Brand reputation and trust
+- Revenue from enterprise subscriptions
+
+*Bad Guys*
+- Government grade actor / advanced competitor
+- Capability: High
+- Opportunity: Public APIs, employees, supply chain
+- Intent: Steal model capabilities and IP
+- Why Anthropic: Frontier AI models have enormous strategic value
+
+*Risk1*
+- Model extraction via API abuse and query attacks, resulting in theft of model behavior/IP
+- Likelihood 10%
+- Impact 750M€
+- Estimated risk 75M€
+
+*Risk2*
+- DoS/DDoS causing online service outage
+- Likelihood 30%
+- Impact 30M€
+- Estimated risk 9M€
+
+*Biggest risk*
+Model extraction via API abuse and query attacks, resulting in theft of model behavior/IP
+Estimated risk value 75M€
+
 
 
 
