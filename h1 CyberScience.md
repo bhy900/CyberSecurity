@@ -95,7 +95,7 @@ linux terminal magik:
   
 result:
 
-  **´code´Hello, Tero!**
+  **Hello, Tero!**
 
 ---
 
