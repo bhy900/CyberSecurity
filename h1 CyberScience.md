@@ -86,6 +86,9 @@ Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/
 - Recognized Base64 encoding
 - string: ==gCh8mclRFIs8GbsVGS
 - reversed string: SGVsbG8sIFRlcm8hCg==
+
+---
+
 linux terminal magik:
 
   **"SGVsbG8sIFRlcm8hCg==" | base64 -d**
@@ -94,6 +97,7 @@ result:
 
   **´code´Hello, Tero!**
 
+---
 
 
 
