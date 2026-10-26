@@ -89,11 +89,11 @@ string: ==gCh8mclRFIs8GbsVGS
 
 reversed string: SGVsbG8sIFRlcm8hCg==
 
-<
+`code`
 
 echo "SGVsbG8sIFRlcm8hCg==" | base64 -d
 
->
+`code`
 
 Hello, Tero!
 
