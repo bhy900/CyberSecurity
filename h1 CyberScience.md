@@ -10,6 +10,14 @@
   
 **Review the review**
 
+*What are the key areas being researched?:*
+
+
+*What's widely agreed upon?:*
+
+
+*What are the open questions?:*
+
 
 **Threat modelling quickrun**
 
