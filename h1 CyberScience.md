@@ -48,12 +48,20 @@ Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/
 - Brand reputation and trust
 - Revenue from enterprise subscriptions
 
-*Bad Guys*
-- Government grade actor / advanced competitor
+*Bad Guys1*
+- **Government grade actor / advanced competitor**
 - Capability: High
 - Opportunity: Public APIs, employees, supply chain
 - Intent: Steal model capabilities and IP
 - Why Anthropic: Frontier AI models have enormous strategic value
+
+*Bad Guys2*
+- **Cybercriminal group**
+- Capability: Medium-High
+- Opportunity: Public-facing services and cloud infrastructure
+- Intent: Extortion, ransom, reputation damage
+- Why Anthropic: High-profile target with low tolerance for outages
+
 
 *Risk1*
 - Model extraction via API abuse and query attacks, resulting in theft of model behavior/IP
