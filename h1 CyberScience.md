@@ -1,6 +1,6 @@
-## H1 CyberScience
+# H1 CyberScience
 
-# Article
+## Article
 Article: Threat Modeling AI/ML With the Attack Tree 
 
 Authors: Seied Veria Hoseini, Jaakko Suutala, Juha Partala, Kimmo Halunen 
@@ -11,10 +11,10 @@ Publisher: IEEE access
 
 JUFO rating: 1 
 
-# Review tjhe review
+## Review the review
 
 
-# Threat modelling quickrun
+## Threat modelling quickrun
 
 
 
