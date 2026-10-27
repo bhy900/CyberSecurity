@@ -66,7 +66,8 @@ Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/
 
 ### *Risk1*
 - Model extraction via API abuse and query attacks, resulting in theft of model behavior/IP
-- Likelihood 10% (because model extraction is difficult and requires significant resources, expertise, and a large number of API queries. However, Anthropic is a high-value target, making such attacks realistic)
+- Likelihood 10%
+- -(because model extraction is difficult and requires significant resources, expertise, and a large number of API queries. However, Anthropic is a high-value target, making such attacks realistic)
 - Impact 750M€ (because stolen model behavior could reduce Anthropic's competitive advantage, lower future revenue, increase legal costs, and damage trust among customers and investors)
 - Estimated risk 75M€ (10% x 750M€)
 
