@@ -82,6 +82,15 @@ Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/
 
 **Estimated risk value 75M€**
 
+### *Biigest risk META*
+
+**Mitigate**
+- Rate limiting to prevent massice workloads/queries
+- API abuse monitoring to catch suspicious actions
+- Watermarking and fingerprinting model outputs to catch leaked data/model
+- Customer identity verification to make it easier to identify bad actors
+- Legal and contractual protections to make it less tempting to act on it
+
 ## Extra Voluntary
 
 - Recognized Base64 encoding
