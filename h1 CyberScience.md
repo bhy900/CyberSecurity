@@ -85,10 +85,10 @@ Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/
 ### *META the biggest risk*
 
 **Mitigate**
-- Rate limiting to prevent massice workloads/queries
+- Rate limiting to prevent massive workloads/queries
 - API abuse monitoring to catch suspicious actions
 - Watermarking and fingerprinting model outputs to catch leaked data/model
-- Customer identity verification to make it easier to identify bad actors
+- Customer identity verification to make it easier to identify bad actors and identify internal actors
 - Legal and contractual protections to make it less tempting to act on it
 
 ## Extra Voluntary
