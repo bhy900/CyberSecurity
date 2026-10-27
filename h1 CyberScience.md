@@ -54,7 +54,7 @@ Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/
 - Capability: High
 - Opportunity: Public APIs, employees, supply chain
 - Intent: Steal model capabilities and IP
-- Why Anthropic: Frontier AI models have enormous strategic value
+- Why Anthropic: AI models have enormous strategic value
 
 ### *Bad Guys2*
 - **Cybercriminal group**
