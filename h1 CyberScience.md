@@ -82,7 +82,7 @@ Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/
 
 **Estimated risk value 75M€**
 
-### *Biigest risk META*
+### *META the biggest risk*
 
 **Mitigate**
 - Rate limiting to prevent massice workloads/queries
