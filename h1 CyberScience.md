@@ -33,13 +33,14 @@ Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/
 - How to build a complete defense tree that matches attack trees
 - How to protect ML models from adversarial attacks using cryptography
 - What new risks Quantum Machine Learning (QML) introduces
-- How homomorphic encryption can be made practical for secure ML
 - How to detect poisoned data and hidden backdoors more reliably
 - How watermarking can prevent model stealing and protect intellectual property
 - How Zero-Knowledge Machine Learning (ZKML) can improve privacy without revealing training data
 - How to make ML models better against adversarial examples and new attack techniques
 
 ## Threat modelling quickrun
+
+### A little company called Anthropic and their LLM
 
 ### *Crown jewels*
 - Model weights and training data (IP worth billions)
