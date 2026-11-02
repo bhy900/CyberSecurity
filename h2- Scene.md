@@ -9,7 +9,7 @@
 - eventually gets caught and pleas not guilty and jus wanting to show the security holes he doscoverd
 - gets sentenced to 6 years in prison where he reamins today
 
-## Own thinkging
+## Own thinking
 It is difficult to combat against internal threat actors. This case was only prevented by the actors nervous excitement, his big ego and badly times network outage. The company had monitoring and logging enabled so that tehy could saw something was not right. Probably compartmentalizing, using just enough access, zero trust, relentless logging and monitoring are the key takeaways from this very entertaining story.
 
 
@@ -26,7 +26,7 @@ It is difficult to combat against internal threat actors. This case was only pre
 - children can practice online safety skills in Cyber City Tycoon, a game developed by Aalto University
 
 ## Own thoughts
-Ecucating and practicing is important for kida to safely navigate online safely. But since children are curious by nature maybe would be beneficial to use technical restraints and try to block ahrmful contenet also.
+Education and practicing is important for kida to safely navigate the online world. But since children are curious by nature maybe would be beneficial to use technical restraints and try to block ahrmful contenet also.
 
 ## Linking to previous article about Threat Modelling AI/ML systems
 
@@ -34,4 +34,14 @@ In the Darknet Diaries "Nick the network engineer" episode, Nickolas Sharp used 
 
 ## Downloaded the Debian 13 Trixie installation media
 
-Link used for download: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.7.0-amd64-netinst.iso
+Link used for download: https://cdimage.debian.org/debian-cd/current-live/amd64/iso-hybrid/debian-live-13.7.0-amd64-xfce.iso
+
+
+# Sources
+Darknet Diaries Episodes 178
+
+https://darknetdiaries.com/episode/178/
+
+Traficom NSCS News *As the school year begins, it is a good time to remind children about safe internet use* 
+
+https://www.kyberturvallisuuskeskus.fi/en/news/school-year-begins-it-good-time-remind-children-about-safe-internet-use
