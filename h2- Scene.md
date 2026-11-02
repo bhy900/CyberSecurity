@@ -45,3 +45,5 @@ https://darknetdiaries.com/episode/178/
 Traficom NSCS News *As the school year begins, it is a good time to remind children about safe internet use* 
 
 https://www.kyberturvallisuuskeskus.fi/en/news/school-year-begins-it-good-time-remind-children-about-safe-internet-use
+
+Hoseini, S. V., Suutala, J., Partala, J. & Halunen, K. 2024. Threat Modeling AI/ML With the Attack Tree. IEEE Access. Vol. 12, pp. 172610-172637. DOI: 10.1109/ACCESS.2024.3497011
