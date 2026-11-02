@@ -1,16 +1,16 @@
 # Darknet Diaries episode 178 Nick the network engineer
 
-- a brief story about an office worker steling sandwiches at the start
+- a brief story about an office worker stealing sandwiches at the start
 - the main story is about network engineer at ubiquiti
-- a dedicated employee with a big ego rising through the corporate ladder but one realises the caree has stalled
+- a dedicated employee with a big ego rises through the corporate ladder but one day realises his caree has stalled
 - other people are reaping the rewards of ubiquiti's success
-- comes up with a sceam to have the company focus on the problems he has noticed
-- while exectuing his fake network breach drill he gets carried away and starts demanding money
-- eventually gets caught and pleas not guilty and just wanting to show the security holes he doscoverd
-- gets sentenced to 6 years in prison where he reamins today
+- comes up with a scheme to have the company focus on the problems he has noticed
+- while executing his fake network breach drill he gets carried away and starts demanding money
+- eventually gets caught and pleads not guilty and just wanting to show the security holes he doscoverd
+- gets sentenced to 6 years in prison where he remains today
 
 ### My thoughts
-It is difficult to combat against internal threat actors. This case was only prevented by the actors nervous excitement, his big ego and badly times network outage. The company had monitoring and logging enabled so that tehy could saw something was not right. Probably compartmentalizing, using just enough access, zero trust, relentless logging and monitoring are the key takeaways from this very entertaining story.
+It is difficult to combat internal threat actors. This case was only prevented by the actors nervous excitement, his big ego and badly timed network outage. The company had monitoring and logging enabled so that they could saw something was not right. Probably compartmentalizing, using just enough access, zero trust, relentless logging and monitoring are the key takeaways from this very entertaining story.
 
 
 # Traficom NCSC News 11.8.2026 at 15:09
@@ -26,11 +26,11 @@ It is difficult to combat against internal threat actors. This case was only pre
 - children can practice online safety skills in Cyber City Tycoon, a game developed by Aalto University
 
 ### My thoughts
-Education and practicing is important for kids to safely navigate the online world. But since children are curious by nature maybe it would be beneficial to use technical restraints and try to block harmful contenet also.
+Education and practice are important for kids to safely navigate the online world. Since children are curious by nature maybe it would be also a good idea to use technical restraints and try to block harmful contenet when possible.
 
 ## Linking to previous article about Threat Modelling AI/ML systems
 
-In the Darknet Diaries "Nick the network engineer" episode, Nickolas Sharp used his trusted employee access to harm the company from the inside. This shows why AI/ML threat models should include insider threats, not only outside attackers.
+In the Darknet Diaries "Nick the network engineer" episode, Nickolas Sharp used his trusted access as an employe to harm the company from the inside. This shows why AI/ML threat models should include insider threats, not only outside attackers.
 
 ## Downloaded the Debian 13 Trixie installation media
 
