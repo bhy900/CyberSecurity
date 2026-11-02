@@ -9,7 +9,7 @@
 - eventually gets caught and pleas not guilty and just wanting to show the security holes he doscoverd
 - gets sentenced to 6 years in prison where he reamins today
 
-## Own thinking
+### My thoughts
 It is difficult to combat against internal threat actors. This case was only prevented by the actors nervous excitement, his big ego and badly times network outage. The company had monitoring and logging enabled so that tehy could saw something was not right. Probably compartmentalizing, using just enough access, zero trust, relentless logging and monitoring are the key takeaways from this very entertaining story.
 
 
@@ -25,7 +25,7 @@ It is difficult to combat against internal threat actors. This case was only pre
 - basic device security is important: use strong passwords, do not share login details, enable location and remote-lock features, and know what to do if a device is lost or stolen
 - children can practice online safety skills in Cyber City Tycoon, a game developed by Aalto University
 
-## Own thoughts
+### My thoughts
 Education and practicing is important for kids to safely navigate the online world. But since children are curious by nature maybe it would be beneficial to use technical restraints and try to block harmful contenet also.
 
 ## Linking to previous article about Threat Modelling AI/ML systems
