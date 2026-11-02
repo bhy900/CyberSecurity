@@ -25,3 +25,7 @@
 ## Linking to previous article about Threat Modelling AI/ML systems
 
 In the Darknet Diaries "Nick the network engineer" episode, Nickolas Sharp used his trusted employee access to harm the company from the inside. This shows why AI/ML threat models should include insider threats, not only outside attackers.
+
+## Downloaded the Debian 13 Trixie installation media
+
+Link used for download: https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-13.7.0-amd64-netinst.iso
