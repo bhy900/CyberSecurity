@@ -26,7 +26,7 @@ It is difficult to combat against internal threat actors. This case was only pre
 - children can practice online safety skills in Cyber City Tycoon, a game developed by Aalto University
 
 ## Own thoughts
-Education and practicing is important for kida to safely navigate the online world. But since children are curious by nature maybe would be beneficial to use technical restraints and try to block ahrmful contenet also.
+Education and practicing is important for kids to safely navigate the online world. But since children are curious by nature maybe it would be beneficial to use technical restraints and try to block harmful contenet also.
 
 ## Linking to previous article about Threat Modelling AI/ML systems
 
