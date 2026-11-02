@@ -9,6 +9,9 @@
 - eventually gets caught and pleas not guilty and jus wanting to show the security holes he doscoverd
 - gets sentenced to 6 years in prison where he reamins today
 
+## Own thinkging
+It is difficult to combat against internal threat actors. This case was only prevented by the actors nervous excitement, his big ego and badly times network outage. The company had monitoring and logging enabled so that tehy could saw something was not right. Probably compartmentalizing, using just enough access, zero trust, relentless logging and monitoring are the key takeaways from this very entertaining story.
+
 
 # Traficom NCSC News 11.8.2026 at 15:09
 
@@ -21,6 +24,9 @@
 - when using AI tools, children should never share personal information, passwords, contact details, or other sensitive data
 - basic device security is important: use strong passwords, do not share login details, enable location and remote-lock features, and know what to do if a device is lost or stolen
 - children can practice online safety skills in Cyber City Tycoon, a game developed by Aalto University
+
+## Own thoughts
+Ecucating and practicing is important for kida to safely navigate online safely. But since children are curious by nature maybe would be beneficial to use technical restraints and try to block ahrmful contenet also.
 
 ## Linking to previous article about Threat Modelling AI/ML systems
 
