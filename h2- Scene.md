@@ -6,7 +6,7 @@
 - other people are reaping the rewards of ubiquiti's success
 - comes up with a sceam to have the company focus on the problems he has noticed
 - while exectuing his fake network breach drill he gets carried away and starts demanding money
-- eventually gets caught and pleas not guilty and jus wanting to show the security holes he doscoverd
+- eventually gets caught and pleas not guilty and just wanting to show the security holes he doscoverd
 - gets sentenced to 6 years in prison where he reamins today
 
 ## Own thinking
