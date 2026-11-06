@@ -2,6 +2,30 @@
 
 ## **x)**
 
+### Heinonen 2026 How to Install Linux to Virtualbox?
+
+- A brief summary hoe to check virtualization support of your host machine
+- Detailed information how to create Virtual Guest in Virtual Box- 
+- Detailed instuctions how to run Debian Linux Live
+- Detailed insturctions how to do a "real" install of Debian Linux
+
+### Karvinen 2020: Command Line Basics Revisited
+
+- a Brief summary how Linux command line works
+- a brief summary of the most commonly used commands
+- a brief summary of important directories
+- a brief summary of administrative commands
+
+### Karvinen 2022: Cracking Passwords with Hashcat
+- How to refresh apps catalog
+- How to install necessary apps
+- How to create necessary directories
+- How to get a big password dictionary (Rockyou)
+- How to unzip downloaded zipped/tarred files
+- How to identify hash
+- How to crack hash
+- How to see the results
+
 ## **a)**
 
 ## b) Install Linux on a virtual machine. Use Debian 13-Trixie
