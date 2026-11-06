@@ -1,6 +1,6 @@
 # H3 Cyber Lab
 
-## **x)**
+## x)  Read/watch/listen and summariz
 
 ### Heinonen 2026 How to Install Linux to Virtualbox?
 
@@ -26,13 +26,9 @@
 - How to crack hash
 - How to see the results
 
-## **a)**
-
-
+## a)  Reserve your presentation title in Laksu
 
 Still tyring to make up my mind on what the topic would be
-
-
 
 ## b) Install Linux on a virtual machine. Use Debian 13-Trixie
 
