@@ -11,6 +11,7 @@
 - Downloaded ISO-install image from DEbia.org
 - Created VM in VMWare Workstation Pro
 - Installed Debian 13 Trixie (8GB RAM, 4vCPU, 200GB HDD)
+- I had to add memory after first attempt to crack the password
 - Followed the article step by step
 - Updated apt-get
 - installed hashid and hascat
