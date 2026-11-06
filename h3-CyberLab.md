@@ -37,7 +37,7 @@
 
  
 
-## **c)**
+## c) Crack the hash 6b1628b016dff46e6fa35684be6acc96
 
 - Downloaded ISO-install image from DEbia.org
 - Created VM in VMWare Workstation Pro
@@ -45,6 +45,7 @@
 - I had to add memory after first attempt to crack the password
 - Followed the article step by step
 - Updated apt-get
+    sudo apt-get update
 - installed hashid and hascat
 - Installed Rockyou Dictionary
 - Cracked the Hash
