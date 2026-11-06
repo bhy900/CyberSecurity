@@ -49,10 +49,29 @@
     sudo apt-get update
 ```
 - installed hashid and hascat
+```
+    sudo apt-get -y install hashid hashcat wget
+```
 - Installed Rockyou Dictionary
+```
+    mkdir hashed
+    cd hashed
+    wget https://github.com/danielmiessler/SecLists/raw/master/Passwords/Leaked-Databases/rockyou.txt.tar.gz
+    tar xf rockyou.txt.tar.gz
+    rm rockyou.txt.tar.gz
+```
+- Identified the hash type
+```
+    hashid -m 6b1628b016dff46e6fa35684be6acc96
+```
 - Cracked the Hash
+```
+    hashcat -m 0 '6b1628b016dff46e6fa35684be6acc96' rockyou.txt -o solved
+```
 - Result: password = summer
-
+```
+    cat solved 
+```
 
 ### Pics
 
