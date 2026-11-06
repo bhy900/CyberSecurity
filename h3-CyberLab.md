@@ -4,7 +4,7 @@
 
 ### Heinonen 2026 How to Install Linux to Virtualbox?
 
-- A brief summary hoe to check virtualization support of your host machine
+- A brief summary how to check virtualization support of your host machine
 - Detailed information how to create Virtual Guest in Virtual Box- 
 - Detailed instuctions how to run Debian Linux Live
 - Detailed insturctions how to do a "real" install of Debian Linux
