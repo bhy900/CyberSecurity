@@ -28,6 +28,12 @@
 
 ## **a)**
 
+
+
+Still tyring to make up my mind on what the topic would be
+
+
+
 ## b) Install Linux on a virtual machine. Use Debian 13-Trixie
 
 - I usually do a lot of work related VM stuff so I have VMWare Workstation Pro installed on my Windows 11 Workstation and virtualization is enabled
