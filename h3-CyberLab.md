@@ -45,9 +45,9 @@
 - I had to add memory after first attempt to crack the password
 - Followed the article step by step
 - Updated apt-get
-´´´
+```
     sudo apt-get update
-´´´
+```
 - installed hashid and hascat
 - Installed Rockyou Dictionary
 - Cracked the Hash
