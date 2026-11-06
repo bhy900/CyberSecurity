@@ -1,6 +1,6 @@
 # H3 Cyber Lab
 
-## x)  Read/watch/listen and summariz
+## x)  Read/watch/listen and summarize
 
 ### Heinonen 2026 How to Install Linux to Virtualbox?
 
