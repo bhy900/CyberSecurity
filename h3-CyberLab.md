@@ -55,11 +55,63 @@ Still tyring to make up my mind on what the topic would be
 
 - I powered on the VM an installed Debian woth deafult settings
 
-<img width="2559" height="1372" alt="kuva" src="https://github.com/user-attachments/assets/bf8e0f20-1534-401b-a1bd-34242f92bfc4" />
+<img width="481" height="457" alt="1" src="https://github.com/user-attachments/assets/931fef2b-2a8f-48ab-b976-b6dbd731052f" />
 
-<img width="2559" height="1393" alt="kuva" src="https://github.com/user-attachments/assets/d967d6d1-bf34-4f16-9247-05a7c30ce7eb" />
+<img width="648" height="486" alt="2" src="https://github.com/user-attachments/assets/1b5e51ba-44da-499f-ac35-7a8982ce77d0" />
 
-<img width="2559" height="1397" alt="kuva" src="https://github.com/user-attachments/assets/f1463b9a-1e49-474b-ab4a-9669dab87b88" />
+<img width="800" height="605" alt="3" src="https://github.com/user-attachments/assets/9943850f-98f6-41c0-8b4b-2f518f3f19e1" />
+
+<img width="802" height="598" alt="4" src="https://github.com/user-attachments/assets/6651c21d-d324-432e-b3b4-e40e0e3861b0" />
+
+<img width="801" height="599" alt="5" src="https://github.com/user-attachments/assets/5ec36d3a-88cd-4044-8920-9d7f43a36027" />
+
+<img width="798" height="604" alt="6" src="https://github.com/user-attachments/assets/3ccfa932-7add-4d40-aac8-66706dd4180a" />
+
+<img width="801" height="598" alt="7" src="https://github.com/user-attachments/assets/f150e664-69f4-4957-9477-b9942840dd06" />
+
+<img width="801" height="599" alt="8" src="https://github.com/user-attachments/assets/2deccbe7-beae-4ca8-873c-38ce9ae38bd1" />
+
+<img width="805" height="606" alt="9" src="https://github.com/user-attachments/assets/fc07f575-a34a-4b4f-87e3-cb59f1d168b2" />
+
+<img width="801" height="599" alt="10" src="https://github.com/user-attachments/assets/17cb126b-d2d9-4a9c-8739-705f1d18d7b1" />
+
+<img width="802" height="602" alt="11" src="https://github.com/user-attachments/assets/99caaf3c-c389-46b6-9aac-2974b7094d81" />
+
+<img width="802" height="601" alt="12" src="https://github.com/user-attachments/assets/4888b2fa-aa80-4eaf-a5ab-c0c3fd09a7e8" />
+
+<img width="800" height="598" alt="13" src="https://github.com/user-attachments/assets/2a91bc65-620b-450f-b305-bcd6de749dce" />
+
+<img width="800" height="602" alt="14" src="https://github.com/user-attachments/assets/982bf62a-1111-41fb-b1e2-81457522db7f" />
+
+<img width="800" height="608" alt="15" src="https://github.com/user-attachments/assets/e2ac581c-0ac7-4e71-b597-686fec1561d4" />
+
+<img width="803" height="602" alt="16" src="https://github.com/user-attachments/assets/0bebca38-01d3-4054-90ea-8853ad701618" />
+
+<img width="801" height="602" alt="17" src="https://github.com/user-attachments/assets/370fd6ee-4c8d-44ce-ad83-5c06a8d5c5dd" />
+
+<img width="801" height="598" alt="18" src="https://github.com/user-attachments/assets/0aa26a0b-29aa-4972-b363-3a3062d6ace9" />
+
+<img width="802" height="602" alt="19" src="https://github.com/user-attachments/assets/3717eae0-89d9-4c03-88bc-60596fb85045" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
