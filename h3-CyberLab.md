@@ -28,7 +28,7 @@
 
 ## a)  Reserve your presentation title in Laksu
 
-Still tyring to make up my mind on what the topic would be
+Still tyring to make up my mind on what the topic would be. I have some idea to talk about how to translate what I have learned from this course to everysay practical life. Maybe a recap on where do you find information about vulnerabilities and how to make decisions waht to do about them.
 
 ## b) Install Linux on a virtual machine. Use Debian 13-Trixie
 
