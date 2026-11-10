@@ -93,27 +93,27 @@ Still tyring to make up my mind on what the topic would be
 
 <img width="802" height="602" alt="19" src="https://github.com/user-attachments/assets/3717eae0-89d9-4c03-88bc-60596fb85045" />
 
+<img width="803" height="597" alt="20" src="https://github.com/user-attachments/assets/42e9de0c-a003-4433-854f-93e1e2526fe7" />
+
+<img width="797" height="600" alt="21" src="https://github.com/user-attachments/assets/54e11a0b-49a1-4df4-8f0c-75361030ee56" />
+
+<img width="803" height="599" alt="22" src="https://github.com/user-attachments/assets/6a106634-0efc-4e6a-bcc9-94c4a6d144d7" />
+
+<img width="797" height="596" alt="23" src="https://github.com/user-attachments/assets/2dde1a4f-058c-43e4-87fa-3417c974a8b5" />
+
+<img width="803" height="599" alt="24" src="https://github.com/user-attachments/assets/9dff95b3-7acc-44cd-b093-e77c2e2c56cc" />
+
+<img width="795" height="598" alt="25" src="https://github.com/user-attachments/assets/f8c19094-2f15-49a1-88e7-b4d50d94f1f1" />
+
+<img width="799" height="599" alt="26" src="https://github.com/user-attachments/assets/ef88f867-8789-4fa7-a857-68872745820b" />
+
+<img width="644" height="479" alt="27" src="https://github.com/user-attachments/assets/fd0e61f3-09f6-48fa-9a1a-568071e89065" />
+
+<img width="401" height="218" alt="28" src="https://github.com/user-attachments/assets/a00c891d-7ea0-4f4b-bd71-a37614030f12" />
+
+<img width="1018" height="697" alt="29" src="https://github.com/user-attachments/assets/3d634389-842d-4ff3-8aa8-dbc0947b9895" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
 
 ## c) Crack the hash 6b1628b016dff46e6fa35684be6acc96
 
