@@ -60,13 +60,21 @@ If you regularly follow more than a few websites, a feed reader is usually more 
 - Important news can get buried among less important updates
 - There is less discussion and community interaction than on platforms like Reddit, X, or LinkedIn
 
-## F) Prot scan
+## F) Port scan
+
+Isntall nmap
 
 <img width="666" height="414" alt="11" src="https://github.com/user-attachments/assets/dd0b7e6f-e59d-4027-a4d5-a4d850372009" />
 
+Check No Internet connectivity
+
 <img width="665" height="426" alt="12" src="https://github.com/user-attachments/assets/67f29c46-ee7f-474d-a43e-61d24c57092f" />
 
+First Port scan (1 service on 1 Hsot)
+
 <img width="661" height="442" alt="13" src="https://github.com/user-attachments/assets/6859d4dd-0e17-4898-8fff-413300de791c" />
+
+Second port scan after installing Apache 2 (2 service on 1 host)
 
 <img width="654" height="438" alt="14" src="https://github.com/user-attachments/assets/aaab24a7-98a6-4eb0-b3f2-5dbf9b4939af" />
 
