@@ -12,12 +12,8 @@ If you regularly follow more than a few websites, a feed reader is usually more 
 - The Finnish Supreme Court considered the offense serious and did not reduce the damages, even though the offender was a minor. Protecting computer systems was considered important.
 
 ## A) Install Feed Reader
-
-I chose this
 <img width="736" height="350" alt="1" src="https://github.com/user-attachments/assets/4acf60b4-bf9c-4995-87e9-b3d712461765" />
 
-
-I insalled it
 <img width="781" height="590" alt="2" src="https://github.com/user-attachments/assets/54e2ae1a-2103-4fbe-a40d-2e308b97e753" />
 
 
@@ -37,6 +33,9 @@ I insalled it
 - I chose them becaus they suite this course
 
 <img width="1810" height="960" alt="6" src="https://github.com/user-attachments/assets/3dca9173-924f-4c25-a308-adbc8d5b00d2" />
+
+
+
 
 
 
