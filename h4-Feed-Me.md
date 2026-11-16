@@ -89,6 +89,11 @@ Found some service on open port 631tcp on a host with an ip 127.0.0.1
 
 <img width="654" height="438" alt="14" src="https://github.com/user-attachments/assets/aaab24a7-98a6-4eb0-b3f2-5dbf9b4939af" />
 
+---
+
+**How can criminals know what services your employer has?**
+- Criminals usually do port scanning to reveal common used ports
+- Common used ports usually lead to common used services
 
 
 
