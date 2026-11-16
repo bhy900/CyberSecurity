@@ -10,3 +10,17 @@ If you regularly follow more than a few websites, a feed reader is usually more 
 - The argument that someone else could have used his IP address was not enough to overturn the evidence. Software capable of carrying out the act was found on his computer.
 
 - The Finnish Supreme Court considered the offense serious and did not reduce the damages, even though the offender was a minor. Protecting computer systems was considered important.
+
+
+## D)
+
+- I added two rss feed from the Finnish Cyber Security Centre (Kyberturvallisuuskeskus)
+- I found the from their official website (https://www.kyberturvallisuuskeskus.fi/fi/rss-syotteet) 
+- I have been reading these for a long time
+- I chose them becaus they suite this course
+
+<img width="1810" height="960" alt="6" src="https://github.com/user-attachments/assets/3dca9173-924f-4c25-a308-adbc8d5b00d2" />
+
+
+
+
