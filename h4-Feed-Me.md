@@ -11,6 +11,30 @@ If you regularly follow more than a few websites, a feed reader is usually more 
 
 - The Finnish Supreme Court considered the offense serious and did not reduce the damages, even though the offender was a minor. Protecting computer systems was considered important.
 
+## A) Isntall Feed Reader
+
+I chose this because of reasons.
+
+<img width="736" height="350" alt="1" src="https://github.com/user-attachments/assets/4acf60b4-bf9c-4995-87e9-b3d712461765" />
+
+I insalled it
+
+<img width="781" height="590" alt="2" src="https://github.com/user-attachments/assets/54e2ae1a-2103-4fbe-a40d-2e308b97e753" />
+
+I added Krebs feed
+
+<img width="782" height="582" alt="3" src="https://github.com/user-attachments/assets/c91327c2-81ce-4faf-b028-d9de809692fb" />
+
+I added Sneider on security feed
+
+<img width="1894" height="748" alt="5" src="https://github.com/user-attachments/assets/55f3e330-1d95-43c0-a531-a090358d1b1d" />
+
+
+
+
+
+
+
 
 ## D)
 
