@@ -62,7 +62,7 @@ If you regularly follow more than a few websites, a feed reader is usually more 
 
 ## F) Port scan
 
-Isntall nmap
+Install nmap
 ---
 <img width="666" height="414" alt="11" src="https://github.com/user-attachments/assets/dd0b7e6f-e59d-4027-a4d5-a4d850372009" />
 
