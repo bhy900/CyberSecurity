@@ -35,6 +35,32 @@ If you regularly follow more than a few websites, a feed reader is usually more 
 <img width="1810" height="960" alt="6" src="https://github.com/user-attachments/assets/3dca9173-924f-4c25-a308-adbc8d5b00d2" />
 
 
+## E) Follow the feed for a while
+
+** What did I learn from following security feeds?**
+- New vulnerabilities and security issues are found all the time.
+- Many attacks happen because systems are not updated quickly enough.
+- Ransomware is still a major threat for companies and organizations.
+- Security researchers often share useful tools, tips, and analysis of new attacks.
+- It is important to follow trusted sources because there is a lot of security news every day.
+
+
+**Benefits of using a feed reader**
+- All updates are in one place, so I do not need to visit many websites.
+- New articles appear automatically.
+- It is easy to follow multiple security blogs, vendors, and news sites.
+- No social media algorithms decide what I see.
+- It helps me stay up to date with the latest vulnerabilities and threats.
+
+
+**Downsides of using a feed reader**
+- There can be too many articles to read.
+- Some websites only provide short summaries in their feeds.
+- Not every security source offers an RSS or Atom feed.
+- Important news can get buried among less important updates.
+- There is less discussion and community interaction than on platforms like Reddit, X, or LinkedIn.
+
+
 
 
 
