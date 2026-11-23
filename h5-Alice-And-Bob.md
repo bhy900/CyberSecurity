@@ -76,6 +76,12 @@ Sources:
 
 Cloudflare 2024. How Does Public Key Encryption Work? Read: 23.11.2026. Available: https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/
 
+GeeksforGeeks 2025. Public Key Encryption. Read: 23.11.2026. Available: https://www.geeksforgeeks.org/computer-networks/public-key-encryption/
+
+GeeksforGeeks 2026. Understanding SSL/TLS and Digital Security. Read: 23.11.2026. Available: https://www.geeksforgeeks.org/ethical-hacking/how-ssl-tls-certificates-and-digital-signatures-secure-your-online-activities/
+
+
+
 
 
 
@@ -85,9 +91,31 @@ Cloudflare 2024. How Does Public Key Encryption Work? Read: 23.11.2026. Availabl
 
 <img width="1532" height="422" alt="kuva" src="https://github.com/user-attachments/assets/94f7aaf1-2c4e-4f0d-8d0f-769115e2fac1" />
 
+2. Create a database to use and encrypt it
+
+<img width="1077" height="782" alt="kuva" src="https://github.com/user-attachments/assets/0e378338-5d21-4eb6-830a-682f685b0c21" />
+
+<img width="652" height="601" alt="kuva" src="https://github.com/user-attachments/assets/245300d9-c1b8-4663-b2a0-5c63e9659168" />
+
+3. Add an entry to store authentication info
+
+<img width="1047" height="660" alt="kuva" src="https://github.com/user-attachments/assets/f807d26a-3280-4a5b-9ee1-2196412ffe4b" />
+
+
+4. Now i can copy&paste username and passsword or use an autofill functionality
+
+<img width="1056" height="662" alt="kuva" src="https://github.com/user-attachments/assets/e2333b89-5c0e-4203-9a0a-99eb8d262989" />
 
 
 
-GeeksforGeeks 2025. Public Key Encryption. Read: 23.11.2026. Available: https://www.geeksforgeeks.org/computer-networks/public-key-encryption/
 
-GeeksforGeeks 2026. Understanding SSL/TLS and Digital Security. Read: 23.11.2026. Available: https://www.geeksforgeeks.org/ethical-hacking/how-ssl-tls-certificates-and-digital-signatures-secure-your-online-activities/
+
+
+
+
+
+
+
+
+
+2. Creta a database
