@@ -86,6 +86,9 @@ GeeksforGeeks 2026. Understanding SSL/TLS and Digital Security. Read: 23.11.2026
 
 
 ## C)
+
+I chose KeePass 3 since I have been using it for a long time.
+
 ---
 1. Download and install KeePass 2 from public website
 
@@ -107,7 +110,7 @@ GeeksforGeeks 2026. Understanding SSL/TLS and Digital Security. Read: 23.11.2026
 
 ---
 
-4. Now i can copy&paste username and passsword or use an autofill functionality
+4. Now I can copy&paste username and passsword or use an autofill functionality. 
 
 <img width="1056" height="662" alt="kuva" src="https://github.com/user-attachments/assets/e2333b89-5c0e-4203-9a0a-99eb8d262989" />
 
