@@ -76,6 +76,18 @@ Sources:
 
 Cloudflare 2024. How Does Public Key Encryption Work? Read: 23.11.2026. Available: https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/
 
+
+
+
+## C)
+
+1. Download and install KeePass 2 from public website
+
+<img width="1532" height="422" alt="kuva" src="https://github.com/user-attachments/assets/94f7aaf1-2c4e-4f0d-8d0f-769115e2fac1" />
+
+
+
+
 GeeksforGeeks 2025. Public Key Encryption. Read: 23.11.2026. Available: https://www.geeksforgeeks.org/computer-networks/public-key-encryption/
 
 GeeksforGeeks 2026. Understanding SSL/TLS and Digital Security. Read: 23.11.2026. Available: https://www.geeksforgeeks.org/ethical-hacking/how-ssl-tls-certificates-and-digital-signatures-secure-your-online-activities/
