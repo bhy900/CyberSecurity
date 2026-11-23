@@ -60,16 +60,16 @@ I used public key cryptography when logging in to my online bank through a web b
 
 How different parties use keys:
 
-Bank server: Keeps the private key secret and shares the public key through its TLS certificate.
-Customer's browser: Uses the bank's public key to verify the server and establish a secure connection.
-Both parties: Use the shared session key to encrypt and decrypt the actual data exchanged during the session.
+- Bank server: Keeps the private key secret and shares the public key through its TLS certificate.
+- Customer's browser: Uses the bank's public key to verify the server and establish a secure connection.
+- Both parties: Use the shared session key to encrypt and decrypt the actual data exchanged during the session.
 
 Security evaluation:
 
-TLS is considered highly secure and is widely used for online banking.
-The system provides confidentiality, authentication, and data integrity.
-Security depends on protecting the bank's private key and validating certificates correctly.
-The biggest risks are stolen credentials, phishing websites, or compromised devices rather than weaknesses in the TLS protocol itself. 
+- TLS is considered highly secure and is widely used for online banking.
+- The system provides confidentiality, authentication, and data integrity.
+- Security depends on protecting the bank's private key and validating certificates correctly.
+- The biggest risks are stolen credentials, phishing websites, or compromised devices rather than weaknesses in the TLS protocol itself. 
 
 
 Sources:
