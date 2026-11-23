@@ -89,13 +89,17 @@ GeeksforGeeks 2026. Understanding SSL/TLS and Digital Security. Read: 23.11.2026
 
 1. Download and install KeePass 2 from public website
 
+
 <img width="1532" height="422" alt="kuva" src="https://github.com/user-attachments/assets/94f7aaf1-2c4e-4f0d-8d0f-769115e2fac1" />
 
+
 2. Create a database to use and encrypt it
+
 
 <img width="1077" height="782" alt="kuva" src="https://github.com/user-attachments/assets/0e378338-5d21-4eb6-830a-682f685b0c21" />
 
 <img width="652" height="601" alt="kuva" src="https://github.com/user-attachments/assets/245300d9-c1b8-4663-b2a0-5c63e9659168" />
+
 
 3. Add an entry to store authentication info
 
