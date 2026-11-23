@@ -2,13 +2,11 @@
 
 ## X)
 
-Applied Cryptography: Protocols, Algorithms and Source Code in C, 20th Anniversary Edition
-Bruce Schneier
-O'REILLY
+Schneier, B. 2015. Applied Cryptography: Protocols, Algorithms and Source Code in C. 20th Anniversary ed. O'Reilly Media, Sebastopol. Read: 23.11.2026. Available: [https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/].
 
 Chapter 1 - Foundations
 
-1.1 Terminology
+1.1 Terminology summary
 - Cryptography protects messages by converting plaintext into ciphertext and back using encryption and decryption
 - Main security goals are confidentiality, authentication (verifying the sender), integrity (detecting changes), and nonrepudiation (preventing denial of sending a message)
 - Modern cryptography relies on keys, not secret algorithms. Security should depend on keeping the key secret
@@ -21,7 +19,7 @@ Chapter 1 - Foundations
 
 Chapter 2 - Protocol Building Blocks, sections
 
-2.5 Communications Using Public-Key Cryptography 
+2.5 Communications Using Public-Key Cryptography summary
 
 - Public-key cryptography uses two keys: a public key for encryption and a private key for decryption. Anyone can encrypt a message, but only the owner of the private key can read it
 - It solves the key-sharing problem of symmetric encryption because users do not need to exchange a secret key in advance
@@ -32,7 +30,9 @@ Chapter 2 - Protocol Building Blocks, sections
 - Merkle's Puzzles was one of the first public-key concepts, allowing secure communication without a pre-shared key, but it required much more work for an eavesdropper to break than for the legitimate users
 
 
-Karvinen 2023 PGP
+Karvinen, T. 2023. PGP - Send Encrypted and Signed Message - gpg. Read: 23.11.2026. Available: [https://terokarvinen.com/2023/pgp-encrypt-sign-verify/].
+
+Karvinen 2023 PGP summary:
 
 - PGP (Pretty Good Privacy) uses public-key cryptography to encrypt messages and create digital signatures. Encryption provides confidentiality, and signing proves the sender's identity
 - Each user creates a key pair: a public key that can be shared and a private key that must be kept secret
