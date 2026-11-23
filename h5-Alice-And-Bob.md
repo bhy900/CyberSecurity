@@ -86,30 +86,42 @@ GeeksforGeeks 2026. Understanding SSL/TLS and Digital Security. Read: 23.11.2026
 
 
 ## C)
-
+---
 1. Download and install KeePass 2 from public website
-
 
 <img width="1532" height="422" alt="kuva" src="https://github.com/user-attachments/assets/94f7aaf1-2c4e-4f0d-8d0f-769115e2fac1" />
 
+---
 
 2. Create a database to use and encrypt it
-
 
 <img width="1077" height="782" alt="kuva" src="https://github.com/user-attachments/assets/0e378338-5d21-4eb6-830a-682f685b0c21" />
 
 <img width="652" height="601" alt="kuva" src="https://github.com/user-attachments/assets/245300d9-c1b8-4663-b2a0-5c63e9659168" />
 
+---
 
 3. Add an entry to store authentication info
 
 <img width="1047" height="660" alt="kuva" src="https://github.com/user-attachments/assets/f807d26a-3280-4a5b-9ee1-2196412ffe4b" />
 
+---
 
 4. Now i can copy&paste username and passsword or use an autofill functionality
 
 <img width="1056" height="662" alt="kuva" src="https://github.com/user-attachments/assets/e2333b89-5c0e-4203-9a0a-99eb8d262989" />
 
+---
+
+Several common attacks become easier when people do not use password managers:
+
+- Credential stuffing: People often reuse the same password on multiple sites. If one site is breached, attackers can try the same username and password on other services such as email, banking, or social media
+- Brute-force and dictionary attacks: Without a password manager, users tend to create short or predictable passwords that are easier to guess
+- Password spraying: Attackers try a few common passwords (such as "Password123") against many accounts. Weak, human-created passwords are more likely to be affected
+- Phishing attacks: Password managers usually recognize the correct website URL and autofill credentials only on legitimate sites. Users who enter passwords manually may be more likely to submit them to fake websites
+- Security questions and predictable patterns: People often create passwords based on names, dates, or simple variations of old passwords, making social engineering attacks easier
+
+Password managers help by generating long, unique passwords for every service and reducing password reuse. This makes credential stuffing, password guessing, and many phishing attacks much less effective.
 
 
 
@@ -120,6 +132,3 @@ GeeksforGeeks 2026. Understanding SSL/TLS and Digital Security. Read: 23.11.2026
 
 
 
-
-
-2. Creta a database
