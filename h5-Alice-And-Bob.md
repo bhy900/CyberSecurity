@@ -123,8 +123,6 @@ Schneier, B. 2015. Applied Cryptography: Protocols, Algorithms and Source Code i
 
 Karvinen, T. 2023. Cyber Security. Read: 23.11.2026. Available: [https://terokarvinen.com/cyber-security/]
 
-Karvinen, T. 2023. PGP - Send Encrypted and Signed Message - gpg. Read: 23.11.2026. Available: [https://terokarvinen.com/2023/pgp-encrypt-sign-verify/]
-
 Cloudflare 2024. How Does Public Key Encryption Work? Read: 23.11.2026. Available: [https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/]
 
 GeeksforGeeks 2025. Public Key Encryption. Read: 23.11.2026. Available: [https://www.geeksforgeeks.org/computer-networks/public-key-encryption/]
