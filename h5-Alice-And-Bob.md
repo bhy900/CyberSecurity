@@ -4,7 +4,7 @@
 
 
 
-**Chapter 1 - Foundations (Schneier, 2015)**
+### Chapter 1 - Foundations (Schneier, 2015)
 
 **1.1 Terminology summary**
 - Cryptography protects messages by converting plaintext into ciphertext and back using encryption and decryption 
@@ -19,7 +19,7 @@
 
 
 
-**Chapter 2 - Protocol Building Blocks, sections (Schneier, 2015)**
+### Chapter 2 - Protocol Building Blocks, sections (Schneier, 2015)
 
 **2.5 Communications Using Public-Key Cryptography summary**
 
@@ -34,7 +34,7 @@
 
 
 
-**Karvinen 2023 PGP summary (Karvinen, 2023)**
+### Karvinen 2023 PGP summary (Karvinen, 2023)
 
 - PGP (Pretty Good Privacy) uses public-key cryptography to encrypt messages and create digital signatures. Encryption provides confidentiality, and signing proves the sender's identity
 - Each user creates a key pair: a public key that can be shared and a private key that must be kept secret
