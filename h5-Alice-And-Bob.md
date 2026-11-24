@@ -4,10 +4,10 @@
 
 
 
-**Chapter 1 - Foundations**
+**Chapter 1 - Foundations (Schneier, 2015)**
 
 **1.1 Terminology summary**
-- Cryptography protects messages by converting plaintext into ciphertext and back using encryption and decryption
+- Cryptography protects messages by converting plaintext into ciphertext and back using encryption and decryption 
 - Main security goals are confidentiality, authentication (verifying the sender), integrity (detecting changes), and nonrepudiation (preventing denial of sending a message)
 - Modern cryptography relies on keys, not secret algorithms. Security should depend on keeping the key secret
 - There are two main types of encryption: symmetric (same/shared key) and public-key (different public and private keys)
@@ -19,7 +19,7 @@
 
 
 
-**Chapter 2 - Protocol Building Blocks, sections**
+**Chapter 2 - Protocol Building Blocks, sections (Schneier, 2015)**
 
 **2.5 Communications Using Public-Key Cryptography summary**
 
@@ -34,7 +34,7 @@
 
 
 
-**Karvinen 2023 PGP summary**
+**Karvinen 2023 PGP summary (Karvinen, 2023)**
 
 - PGP (Pretty Good Privacy) uses public-key cryptography to encrypt messages and create digital signatures. Encryption provides confidentiality, and signing proves the sender's identity
 - Each user creates a key pair: a public key that can be shared and a private key that must be kept secret
@@ -47,7 +47,7 @@
 
 ## A) Pubkey today. Explain how you have used public key cryptography today or yesterday, outside of this homework
 
-**Online Banking (HTTPS)**
+**Online Banking (HTTPS) (Cloudflare 2024), (GeeksforGeeks, 2025), (GeeksforGeeks 2026)**
 
 I used public key cryptography when logging in to my online bank through a web browser. The website used HTTPS/TLS to create a secure connection.
 
@@ -60,7 +60,7 @@ I used public key cryptography when logging in to my online bank through a web b
 
 ## B) Encrypt and decrypt a message. Explain how different parties use different keys at different stages of operation.
 
-**How different parties use keys:**
+**How different parties use keys (Cloudflare 2024), (GeeksforGeeks, 2025), (GeeksforGeeks 2026)**
 
 - Bank server: Keeps the private key secret and shares the public key through its TLS certificate.
 - Customer's browser: Uses the bank's public key to verify the server and establish a secure connection.
