@@ -1,8 +1,6 @@
 #
 
-## X)
-
-Schneier, B. 2015. Applied Cryptography: Protocols, Algorithms and Source Code in C. 20th Anniversary ed. O'Reilly Media, Sebastopol. Read: 23.11.2026. Available: [https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/].
+## X) Read and summarize (with some bullet points
 
 Chapter 1 - Foundations
 
@@ -30,7 +28,7 @@ Chapter 2 - Protocol Building Blocks, sections
 - Merkle's Puzzles was one of the first public-key concepts, allowing secure communication without a pre-shared key, but it required much more work for an eavesdropper to break than for the legitimate users
 
 
-Karvinen, T. 2023. PGP - Send Encrypted and Signed Message - gpg. Read: 23.11.2026. Available: [https://terokarvinen.com/2023/pgp-encrypt-sign-verify/].
+
 
 Karvinen 2023 PGP summary:
 
@@ -43,7 +41,7 @@ Karvinen 2023 PGP summary:
 - The recipient can verify the sender's signature using the sender's public key, confirming the message was not modified and came from the expected sender
 - Public keys can be shared over untrusted networks because security depends on keeping private keys secret
 
-## A)
+## A) Pubkey today. Explain how you have used public key cryptography today or yesterday, outside of this homework
 
 Online Banking (HTTPS)
 
@@ -56,7 +54,7 @@ I used public key cryptography when logging in to my online bank through a web b
 - After that, both sides use the session key to encrypt the actual banking traffic.
 
 
-## B)
+## B) Encrypt and decrypt a message. Explain how different parties use different keys at different stages of operation.
 
 How different parties use keys:
 
@@ -72,20 +70,7 @@ Security evaluation:
 - The biggest risks are stolen credentials, phishing websites, or compromised devices rather than weaknesses in the TLS protocol itself. 
 
 
-Sources:
-
-Cloudflare 2024. How Does Public Key Encryption Work? Read: 23.11.2026. Available: https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/
-
-GeeksforGeeks 2025. Public Key Encryption. Read: 23.11.2026. Available: https://www.geeksforgeeks.org/computer-networks/public-key-encryption/
-
-GeeksforGeeks 2026. Understanding SSL/TLS and Digital Security. Read: 23.11.2026. Available: https://www.geeksforgeeks.org/ethical-hacking/how-ssl-tls-certificates-and-digital-signatures-secure-your-online-activities/
-
-
-
-
-
-
-## C)
+## C) Password management. Demonstrate use of a password manager. What kind of attacks take advantage of people not using password managers?
 
 I chose KeePass 3 since I have been using it for a long time.
 
@@ -125,6 +110,23 @@ Several common attacks become easier when people do not use password managers:
 - Security questions and predictable patterns: People often create passwords based on names, dates, or simple variations of old passwords, making social engineering attacks easier
 
 Password managers help by generating long, unique passwords for every service and reducing password reuse. This makes credential stuffing, password guessing, and many phishing attacks much less effective.
+
+---
+
+## Sources
+
+Schneier, B. 2015. Applied Cryptography: Protocols, Algorithms and Source Code in C. 20th Anniversary ed. O'Reilly Media, Sebastopol. Read: 23.11.2026. Available: [https://learning.oreilly.com/library/view/applied-cryptography-protocols/9781119096726/]
+
+Karvinen, T. 2023. Cyber Security. Read: 23.11.2026. Available: [https://terokarvinen.com/cyber-security/]
+
+Karvinen, T. 2023. PGP - Send Encrypted and Signed Message - gpg. Read: 23.11.2026. Available: [https://terokarvinen.com/2023/pgp-encrypt-sign-verify/]
+
+Cloudflare 2024. How Does Public Key Encryption Work? Read: 23.11.2026. Available: [https://www.cloudflare.com/learning/ssl/how-does-public-key-encryption-work/]
+
+GeeksforGeeks 2025. Public Key Encryption. Read: 23.11.2026. Available: [https://www.geeksforgeeks.org/computer-networks/public-key-encryption/]
+
+GeeksforGeeks 2026. Understanding SSL/TLS and Digital Security. Read: 23.11.2026. Available: [https://www.geeksforgeeks.org/ethical-hacking/how-ssl-tls-certificates-and-digital-signatures-secure-your-online-activities/]
+
 
 
 
