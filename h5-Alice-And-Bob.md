@@ -76,7 +76,7 @@ I used public key cryptography when logging in to my online bank through a web b
 
 ## C) Password management. Demonstrate use of a password manager. What kind of attacks take advantage of people not using password managers?
 
-I chose KeePass 3 since I have been using it for a long time.
+I chose KeePass 2 since I have been using it for a long time.
 
 ---
 1. Download and install KeePass 2 from public website
