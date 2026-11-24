@@ -1,10 +1,12 @@
-#
+# H5 Alice and Bob
 
-## X) Read and summarize (with some bullet points
+## X) Read and summarize (with some bullet points)
 
-Chapter 1 - Foundations
 
-1.1 Terminology summary
+
+**Chapter 1 - Foundations**
+
+**1.1 Terminology summary**
 - Cryptography protects messages by converting plaintext into ciphertext and back using encryption and decryption
 - Main security goals are confidentiality, authentication (verifying the sender), integrity (detecting changes), and nonrepudiation (preventing denial of sending a message)
 - Modern cryptography relies on keys, not secret algorithms. Security should depend on keeping the key secret
@@ -15,9 +17,11 @@ Chapter 1 - Foundations
 - Only the one-time pad is considered theoretically unbreakable; most systems depend on making attacks computationally impractical
 
 
-Chapter 2 - Protocol Building Blocks, sections
 
-2.5 Communications Using Public-Key Cryptography summary
+
+**Chapter 2 - Protocol Building Blocks, sections**
+
+**2.5 Communications Using Public-Key Cryptography summary**
 
 - Public-key cryptography uses two keys: a public key for encryption and a private key for decryption. Anyone can encrypt a message, but only the owner of the private key can read it
 - It solves the key-sharing problem of symmetric encryption because users do not need to exchange a secret key in advance
@@ -30,7 +34,7 @@ Chapter 2 - Protocol Building Blocks, sections
 
 
 
-Karvinen 2023 PGP summary:
+**Karvinen 2023 PGP summary**
 
 - PGP (Pretty Good Privacy) uses public-key cryptography to encrypt messages and create digital signatures. Encryption provides confidentiality, and signing proves the sender's identity
 - Each user creates a key pair: a public key that can be shared and a private key that must be kept secret
@@ -43,7 +47,7 @@ Karvinen 2023 PGP summary:
 
 ## A) Pubkey today. Explain how you have used public key cryptography today or yesterday, outside of this homework
 
-Online Banking (HTTPS)
+**Online Banking (HTTPS)**
 
 I used public key cryptography when logging in to my online bank through a web browser. The website used HTTPS/TLS to create a secure connection.
 
@@ -56,13 +60,13 @@ I used public key cryptography when logging in to my online bank through a web b
 
 ## B) Encrypt and decrypt a message. Explain how different parties use different keys at different stages of operation.
 
-How different parties use keys:
+**How different parties use keys:**
 
 - Bank server: Keeps the private key secret and shares the public key through its TLS certificate.
 - Customer's browser: Uses the bank's public key to verify the server and establish a secure connection.
 - Both parties: Use the shared session key to encrypt and decrypt the actual data exchanged during the session.
 
-Security evaluation:
+**Security evaluation:**
 
 - TLS is considered highly secure and is widely used for online banking.
 - The system provides confidentiality, authentication, and data integrity.
